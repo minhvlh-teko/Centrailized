@@ -1,1 +1,1 @@
-John dont care about Mary
+John did it without rebase
